@@ -1,0 +1,13 @@
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\bin\Debug\netcoreapp3.1\winFormApp.exe
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\bin\Debug\netcoreapp3.1\winFormApp.deps.json
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\bin\Debug\netcoreapp3.1\winFormApp.runtimeconfig.json
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\bin\Debug\netcoreapp3.1\winFormApp.runtimeconfig.dev.json
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\bin\Debug\netcoreapp3.1\winFormApp.dll
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\bin\Debug\netcoreapp3.1\winFormApp.pdb
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\obj\Debug\netcoreapp3.1\winFormApp.csprojAssemblyReference.cache
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\obj\Debug\netcoreapp3.1\winFormApp.AssemblyInfoInputs.cache
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\obj\Debug\netcoreapp3.1\winFormApp.AssemblyInfo.cs
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\obj\Debug\netcoreapp3.1\winFormApp.csproj.CoreCompileInputs.cache
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\obj\Debug\netcoreapp3.1\winFormApp.dll
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\obj\Debug\netcoreapp3.1\winFormApp.pdb
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winFormApp\obj\Debug\netcoreapp3.1\winFormApp.genruntimeconfig.cache
